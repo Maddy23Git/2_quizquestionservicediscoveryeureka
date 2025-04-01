@@ -1,0 +1,3 @@
+http://localhost:8083/quiz/questionAllByQuizId/101
+http://localhost:8083/quiz
+http://localhost:8083/question
